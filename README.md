@@ -5,6 +5,7 @@ Nesse projeto foram exercitadas os conceitos de:
  - React Route
  - Hooks
  - CSS Animation
+ - Consumo de API
  
 
 <hr/>
